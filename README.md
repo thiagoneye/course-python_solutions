@@ -10,5 +10,9 @@ Development studies in Python.
 
 ## Others
 
-See also the repositories [course-alura](https://github.com/thiagoneye/course-alura), [course-python](https://github.com/thiagoneye/course-python), [beecrowd-programming](https://github.com/thiagoneye/beecrowd-programming) and [book-oop](https://github.com/thiagoneye/book-oop).
+See also the repositories:
 
+- [course-alura](https://github.com/thiagoneye/course-alura)
+- [course-python](https://github.com/thiagoneye/course-python)
+- [beecrowd-programming](https://github.com/thiagoneye/beecrowd-programming)
+- [book-oop](https://github.com/thiagoneye/book-oop)
