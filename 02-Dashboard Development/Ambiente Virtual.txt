@@ -1,0 +1,11 @@
+# Download do Pacote
+
+pip install virtualenv
+
+# Criar um Novo Ambiente Virtual
+
+python -m venv Nome_do_Ambiente
+
+# Ativação
+
+activate
